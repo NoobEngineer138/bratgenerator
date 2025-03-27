@@ -8,7 +8,7 @@
 
 **[Live Demo](https://bratgeneratoronline.com)** | **[Report a Bug](https://github.com/NoobEngineer138/bratgenerator/issues)**
 
-![Application Preview](./public/screenshot.png)
+![Application Preview][bratgenerator](https://bratgeneratoronline.com)
 
 ## ✨ Features
 

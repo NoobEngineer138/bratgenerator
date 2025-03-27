@@ -1,12 +1,12 @@
 # Brat Generator Online 
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/brat-generator/build.yml?style=flat-square)](https://github.com/yourusername/brat-generator/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/NoobEngineer138/bratgenerator/build.yml?style=flat-square)](https://github.com/yourusername/brat-generator/actions)
 [![Live Demo](https://img.shields.io/website?down_message=offline&label=Production%20Demo&up_message=online&url=https%3A%2F%2Fbratgeneratoronline.com)](https://bratgeneratoronline.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Modern web application for generating customized Brat-style text content with real-time preview
 
-**[Live Demo](https://bratgeneratoronline.com)** | **[Report a Bug](https://github.com/yourusername/brat-generator/issues)**
+**[Live Demo](https://bratgeneratoronline.com)** | **[Report a Bug](https://github.com/NoobEngineer138/bratgenerator/issues)**
 
 ![Application Preview](./public/screenshot.png)
 
@@ -40,7 +40,7 @@
 ### Local Development
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/brat-generator.git
+git clone https://github.com/NoobEngineer138/brat-generator.git
 
 # Install dependencies
 npm install
@@ -88,7 +88,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ## 📧 Contact
 
-- Issue Tracker: [GitHub Issues](https://github.com/yourusername/brat-generator/issues)
+- Issue Tracker: [GitHub Issues](https://github.com/NoobEngineer138/bratgenerator/issues)
 - Business Inquiries: contact@bratgeneratoronline.com
 
 ---

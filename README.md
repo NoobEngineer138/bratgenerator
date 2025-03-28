@@ -89,7 +89,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for details.
 ## 📧 Contact
 
 - Issue Tracker: [GitHub Issues](https://github.com/NoobEngineer138/bratgenerator/issues)
-- Business Inquiries: contact@bratgeneratoronline.com
+- Business Inquiries: support@bratgeneratoronline.com
 
 ---
 
